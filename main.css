@@ -1,3 +1,6 @@
+* {
+    color: aquamarine;
+}
 h1 {
     color: red;
 }
@@ -8,3 +11,4 @@ h1 {
 .creation-date{
     color: blueviolet;
 }
+
