@@ -1,5 +1,7 @@
 h1 {
     color: red;
+    height: 37px;
+    padding: 8px;
 }
 #economy{
     color: green;
