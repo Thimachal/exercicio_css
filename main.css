@@ -21,3 +21,7 @@ header li{
 .articles article img{
     height: 180px;
 }
+
+.articles article{
+    width: 30%;
+}
