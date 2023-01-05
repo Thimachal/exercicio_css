@@ -4,19 +4,7 @@
     box-sizing: border-box;
 }
 
-h1 {
-    color: red;
-    height: 37px;
-    padding: 8px;
-    border: none;
-    margin: 40px;
-    box-sizing: border-box;
-}
-#economy{
-    color: green;
-}
-
-.creation-date{
-    color: blueviolet;
+header li{
+    display: inline;
 }
 
