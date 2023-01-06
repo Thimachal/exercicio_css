@@ -52,7 +52,8 @@ section h2,
 }
 
 .articles article a {
-    background-color: blue;4
+    background-color: blue;
     color: #fff;
     padding: 8px;
+    display: inline-block;
 }
