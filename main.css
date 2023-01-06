@@ -52,5 +52,7 @@ section h2,
 }
 
 .articles article a {
-    background-color: blue;
+    background-color: blue;4
+    color: #fff;
+    padding: 8px;
 }
