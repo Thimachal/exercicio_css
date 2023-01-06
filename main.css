@@ -59,7 +59,7 @@ section h2,
 }
 
 .articles article a {
-    background-color: blue;
+    background-color: rgb(69, 69, 136);
     color: #fff;
     padding: 8px;
     display: inline-block;
