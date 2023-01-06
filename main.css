@@ -5,6 +5,10 @@
     
 }
 
+header .container{
+    display: flex;
+}
+
 header li{
     display: inline;
 }
