@@ -46,4 +46,6 @@ section h2,
     margin-right: 16px;
 }
 
-.articles article
+.articles article{
+    margin-top: 8px;
+}
