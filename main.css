@@ -41,12 +41,16 @@ section {
     padding: 16px 0;
 }
 
-section h2, 
+section h2,
 .articles article {
     margin-right: 16px;
 }
 
-.articles article{
+.articles article {
     margin-top: 8px;
     margin-bottom: 8px;
+}
+
+.articles article a {
+    
 }
