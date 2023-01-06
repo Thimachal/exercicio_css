@@ -5,6 +5,10 @@
     
 }
 
+header{
+    background-color: #2f3640;
+}
+
 header .container{
     display: flex;
 }
