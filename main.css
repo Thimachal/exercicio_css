@@ -2,19 +2,19 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    
+
 }
 
-body > header{
+body>header {
     background-color: #2f3640;
     padding: 16px 0;
 }
 
-header .container{
+header .container {
     display: flex;
 }
 
-header li{
+header li {
     display: inline;
 }
 
@@ -29,17 +29,19 @@ header li{
     justify-content: space-between;
 }
 
-.articles article img{
+.articles article img {
     height: 180px;
 }
 
-.articles article{
+.articles article {
     width: 30%;
 }
-section{
+
+section {
     padding: 16px 0;
 }
 
-section h2{
+section h2, 
+.articles article {
     margin-right: 16px;
 }
